@@ -1,0 +1,1 @@
+<a href ="hello.bean">click</a>
